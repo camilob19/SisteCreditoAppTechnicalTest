@@ -1,0 +1,16 @@
+/* 
+  GeneralStrings.strings
+  VideogameApp
+
+  Created by Cristian Camilo Betancourt on 28/06/23.
+  
+*/
+
+//GameListView
+"sort_filter_text" = "Order By Date";
+"restore_filter_text" = "Restore";
+"title_game_list" = "Games";
+"title_add_favorites" = "Add Favorites";
+"title_favorite" = "Favorites";
+
+

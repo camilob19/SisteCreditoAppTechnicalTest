@@ -1,0 +1,46 @@
+{
+  "configurations" : [
+    {
+      "id" : "BF8A7E5C-435C-43DC-A9FA-5C3681D6BD74",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:VideogameApp.xcodeproj",
+          "identifier" : "405EE82D2A4BC2E500846E36",
+          "name" : "VideogameApp"
+        }
+      ]
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:VideogameApp.xcodeproj",
+      "identifier" : "405EE82D2A4BC2E500846E36",
+      "name" : "VideogameApp"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:VideogameApp.xcodeproj",
+        "identifier" : "405EE83E2A4BC2E600846E36",
+        "name" : "VideogameAppTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:VideogameApp.xcodeproj",
+        "identifier" : "405EE8482A4BC2E600846E36",
+        "name" : "VideogameAppUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
